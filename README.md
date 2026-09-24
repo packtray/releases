@@ -6,12 +6,7 @@ This repository holds the installers and nothing else. The website is [packtray.
 
 ## Download
 
-**[Download the latest version for Mac](https://github.com/packtray/releases/releases/latest/download/Packtray.dmg)**
-Works on Apple silicon and Intel Macs running macOS 13 or later.
-
-Windows 10 and 11: coming soon.
-
-Earlier versions and release notes are under [Releases](https://github.com/packtray/releases/releases).
+Coming soon for Mac (Apple silicon and Intel, macOS 13 or later), with Windows 10 and 11 after that. Every version comes with a 7-day free trial; after that you buy a license once. Each version and its release notes will be under [Releases](https://github.com/packtray/releases/releases).
 
 ## Is this download genuine?
 
