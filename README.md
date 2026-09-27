@@ -6,7 +6,7 @@ This repository holds the installers and nothing else. The website is [packtray.
 
 ## Download
 
-Coming soon for Mac (Apple silicon and Intel, macOS 13 or later), with Windows 10 and 11 after that. Every version comes with a 7-day free trial; after that you buy a license once. Each version and its release notes will be under [Releases](https://github.com/packtray/releases/releases).
+Coming soon for Mac (Apple silicon and Intel, macOS 13 or later), with Windows 10 and 11 after that. Every version starts with a 7-day trial of everything. After that, keep using the Free plan, or buy a license once to unlock it all. Each version and its release notes will be under [Releases](https://github.com/packtray/releases/releases).
 
 ## Is this download genuine?
 
