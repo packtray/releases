@@ -6,13 +6,15 @@ This repository holds the installers and nothing else. The website is [packtray.
 
 ## Download
 
-[Packtray 1.0.0](https://github.com/packtray/releases/releases/latest) is available for Mac (Apple silicon and Intel, macOS 13 or later). Windows 10 and 11 support is being prepared separately. Every version starts with a 7-day trial of everything. After that, keep using the Free plan, or buy a license once to unlock it all.
+[Packtray 1.0.1](https://github.com/packtray/releases/releases/latest) is available for Mac (Apple silicon and Intel, macOS 13 or later) and Windows 10/11. Every version starts with a 7-day trial of everything. After that, keep using the Free plan, or buy a license once to unlock it all.
+
+The Windows installer is unsigned, so Windows SmartScreen may show an unknown-publisher warning. The Mac app is signed with a Developer ID and notarized by Apple.
 
 ## Is this download genuine?
 
-The Mac app is signed with a Developer ID and notarized by Apple, so it opens with a normal double-click. If macOS ever says it can't check the app for malicious software, don't open it: the file isn't the one published here.
+If macOS ever says it can't check the app for malicious software, don't open it: the file isn't the one published here.
 
-Each release's notes list the file's SHA-256 checksum. To compare, open Terminal and run:
+Each release's notes list the file's SHA-256 checksum. To compare a download, open Terminal and run:
 
 ```
 shasum -a 256 ~/Downloads/Packtray.dmg
