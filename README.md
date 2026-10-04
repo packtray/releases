@@ -6,9 +6,9 @@ This repository holds the installers and nothing else. The website is [packtray.
 
 ## Download
 
-[Packtray 1.0.1](https://github.com/packtray/releases/releases/latest) is available for Mac (Apple silicon and Intel, macOS 13 or later) and Windows 10/11. Every version starts with a 7-day trial of everything. After that, keep using the Free plan, or buy a license once to unlock it all.
+[The latest Packtray](https://github.com/packtray/releases/releases/latest) is available for Mac (Apple silicon and Intel, macOS 13 or later) and Windows 10/11. It starts with a 3-day trial of everything. After that, keep using the Free plan, or buy a license once to unlock it all.
 
-The Windows installer is unsigned, so Windows SmartScreen may show an unknown-publisher warning. The Mac app is signed with a Developer ID and notarized by Apple.
+The Mac app is signed with a Developer ID and notarized by Apple. The Windows installer isn't code-signed yet (we're working on it), so Windows may say “Windows protected your PC”: click **More info**, then **Run anyway**.
 
 ## Is this download genuine?
 
